@@ -1,4 +1,4 @@
-package com.fudn.Generic.Demo_Generic;
+package Generic.Demo_Generic;
 
 public class TinhTrungBinhCong {
 

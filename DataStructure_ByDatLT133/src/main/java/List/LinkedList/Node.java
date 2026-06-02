@@ -1,4 +1,4 @@
-package com.fudn.List.LinkedList;
+package List.LinkedList;
 
 public class Node {
 

@@ -1,11 +1,8 @@
-
-package com.fudn.Sorting.SelectionSort;
-
-import com.fudn.Sorting.BubbleSort.BubbleSort;
+package Sorting.BubbleSort;
 
 import java.util.Arrays;
 
-public class SelectionSort {
+public class BubbleSort {
 
 
     public void swap(int value1, int value2){

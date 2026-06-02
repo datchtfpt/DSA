@@ -1,4 +1,4 @@
-package com.fudn.Generic.Demo_Generic;
+package Generic.Demo_Generic;
 
 //TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
 // click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.

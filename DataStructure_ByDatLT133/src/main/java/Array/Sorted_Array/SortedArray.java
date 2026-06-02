@@ -1,12 +1,10 @@
-package com.fudn.Array.Sorted_Array;
-
-import org.w3c.dom.ls.LSOutput;
+package Array.Sorted_Array;
 
 import java.util.Arrays;
 
 //TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
 // click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
-public class Main {
+public class SortedArray {
 
     static int[] arr = {1,2,4,6,10};
     public static void update(int index, int value){
