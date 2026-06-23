@@ -23,6 +23,7 @@ public class HashMapDemo {
 
         System.out.println("Kiem tra chua key: " + map.containsKey("Da Nang"));
         System.out.println("Kiem tra chua key: " + map.containsKey("Ha Nam"));
+        System.out.println("Kiem tra chua value: " + map.containsValue(38));
 
         map.remove("Ha Nam");
         map.remove("Da Nang", 44); // pair of key and value -> have to match both key and value
@@ -43,7 +44,6 @@ public class HashMapDemo {
         }
 
         System.out.println(map);
-
 
     }
 }
